@@ -1,5 +1,4 @@
-# GL_test
-Metrics collection script
+# Metrics collection script
 
 
 The script accepts a single parameter to specify which metrics set to print:
